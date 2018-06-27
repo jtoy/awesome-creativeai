@@ -2,7 +2,7 @@
 
 A curated list of any and all creative AI projects, videos, and libraries. Inspired by awesome-machine-learning.
 
-## What is Aritificial Intelligence?
+## What is Artificial Intelligence?
 
 AI is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence. In short, AI can be used in a variety of different ways, which you will see going through the list.
 
@@ -11,9 +11,10 @@ AI is the science and engineering of making intelligent machines, especially int
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Cool Projects](#cool-projects)
-- [Video Demos](#video-demos)
-- [Links to Blogs](#blog-links)
+
+* [Cool Projects](#cool-projects)
+* [Video Demos](#video-demos)
+* [Links to Blogs](#blog-links)
 
 <!-- /MarkdownTOC -->
 
@@ -79,7 +80,3 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 <a name="credits" />
 ## Credits
-
-
-
-
